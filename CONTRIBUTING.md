@@ -1,5 +1,7 @@
 # Contributing to Void
 
+[English](./CONTRIBUTING.md) | [中文](./CONTRIBUTING_CN.md) | [日本語](./CONTRIBUTING_JP.md)
+
 Welcome! 👋 This is a guide on how to contribute to Void. We want to make it as easy as possible to contribute, so if you have any questions or comments, reach out via email or discord!
 
 There are two main ways to contribute:
