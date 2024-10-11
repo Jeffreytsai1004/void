@@ -1,6 +1,6 @@
 # Void
 
-[English](./README_EN.md) | [中文](./README_CN.md) | [日本語](./README_JP.md)
+[English](./README.md) | [中文](./README_CN.md) | [日本語](./README_JP.md)
 
 # 欢迎来到Void
 
