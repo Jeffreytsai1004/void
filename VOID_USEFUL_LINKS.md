@@ -1,5 +1,7 @@
 # Useful links
 
+[English](./VOID_USEFUL_LINKS.md) | [中文](./VOID_USEFUL_LINKS_CN.md) | [日本語](./VOID_USEFUL_LINKS_JP.md)
+
 The Void team put together this list of links to get up and running with VSCode's sourcecode. We hope it's helpful!
 
 ## Beginners / Getting started
